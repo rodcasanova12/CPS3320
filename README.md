@@ -1,6 +1,4 @@
-# CPS3320
-
-Rodrigo Casa Nova
+# Rodrigo Casa Nova
 
 Project #1
 
